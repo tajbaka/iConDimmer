@@ -1,7 +1,7 @@
 # iConDimmer
 
-Google Play: https://play.google.com/store/apps/details?id=com.Amptek.Technologies.iConDimmer&hl=en
-Itunes: https://itunes.apple.com/us/app/icondimmer/id1194725972?mt=8
+* **Google Play**: https://play.google.com/store/apps/details?id=com.Amptek.Technologies.iConDimmer&hl=en
+* **Itunes**: https://itunes.apple.com/us/app/icondimmer/id1194725972?mt=8
 
 ## Summary:
 The iCon Dimmer uses a mesh protocol to connect multiple devices in multiple locations(zones) to one central hub(icon). Using bluetooth and WiFi technology, we were able to create a mesh network between the icon, and surrounding lights. We offered a real-time solution to controlling the light intensities locally and remotely from both android and ios devices.
