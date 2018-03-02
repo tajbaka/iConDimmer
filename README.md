@@ -1,6 +1,6 @@
 # iConDimmer
 
-* ** Tech Involved **: NodeJS MQTT broker and Express for back-end, MongoDB Passport and Mongoose for authentication, Bluetooth GAT Protocol and Bonjour for direct communication, Swift3 and Xcode for IOS, Java and Android Studio for Android.
+* **Tech Involved**: NodeJS MQTT broker and Express for back-end, MongoDB Passport and Mongoose for authentication, Bluetooth GAT Protocol and Bonjour for direct communication, Swift3 and Xcode for IOS, Java and Android Studio for Android.
 
 ## Summary: 
 The iCon Dimmer uses a mesh protocol to connect multiple devices in multiple locations(zones) to one central hub(icon). Using bluetooth and WiFi technology, we were able to create a mesh network between the icon, and surrounding lights. We offered a real-time solution to controlling the light intensities locally and remotely from both android and ios devices. 
