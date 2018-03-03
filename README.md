@@ -3,11 +3,6 @@
 * **Google Play**: https://play.google.com/store/apps/details?id=com.Amptek.Technologies.iConDimmer&hl=en
 * **Itunes**: https://itunes.apple.com/us/app/icondimmer/id1194725972?mt=8
 
-![alt text](/login.png?raw=true "Login")
-![alt text](/dimmer.png?raw=true "Dimmer Control")
-![alt text](/addzone.png?raw=true "Zone Setup")
-![alt text](/alarms.png?raw=true "Current Alarms")
-
 ## Summary:
 The iCon Dimmer uses a mesh protocol to connect multiple devices in multiple locations(zones) to one central hub(icon). Using bluetooth and WiFi technology, we were able to create a mesh network between the icon, and surrounding lights. We offered a real-time solution to controlling the light intensities locally and remotely from both android and ios devices.
 
@@ -28,3 +23,9 @@ NodeJS MQTT broker and Express for back-end, MongoDB Passport and Mongoose for a
 ### Phase 3: Override System
 * **Goal**: Have a backup system in case a light loses connection to iCon or needs a reset.
 * **Reasoning** We needed a way to directly connect the mobile app to individual lights for worst case scenerio problems.* * **What We * **What We Did**: We Used Bluetooth GAAT to connect directly to the lights so that we can erase their content, putting them back into their factory setting.
+
+* **ScreenShots**:
+![alt text](/login.png?raw=true "Login")
+![alt text](/dimmer.png?raw=true "Dimmer Control")
+![alt text](/addzone.png?raw=true "Zone Setup")
+![alt text](/alarms.png?raw=true "Current Alarms")
