@@ -24,4 +24,8 @@ NodeJS MQTT broker and Express for back-end, MongoDB Passport and Mongoose for a
 * **Goal**: Have a backup system in case a light loses connection to iCon or needs a reset.
 * **Reasoning** We needed a way to directly connect the mobile app to individual lights for worst case scenerio problems.* * **What We * **What We Did**: We Used Bluetooth GAAT to connect directly to the lights so that we can erase their content, putting them back into their factory setting.
 
-* **ScreenShots**:![alt text](/login.png?raw=true "Login")![alt text](/dimmer.png?raw=true "Dimmer Control")![alt text](/addzone.png?raw=true "Zone Setup")![alt text](/alarms.png?raw=true "Current Alarms")
+## ScreenShots:
+![alt text](/login.png?raw=true "Login")
+![alt text](/dimmer.png?raw=true "Dimmer Control")
+![alt text](/addzone.png?raw=true "Zone Setup")
+![alt text](/alarms.png?raw=true "Current Alarms")
